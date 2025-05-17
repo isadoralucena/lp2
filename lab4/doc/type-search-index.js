@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"mrbet","l":"Aposta"},{"p":"mrbet","l":"Campeonato"},{"p":"mrbet","l":"Main"},{"p":"mrbet","l":"MrBetSistema"},{"p":"mrbet","l":"Time"}];updateSearchResults();
